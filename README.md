@@ -9,7 +9,7 @@ This is my solution to the [Order Summary Card challenge on Frontend Mentor](htt
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- [Live Site URL](https://myordersummarycard.netlify.app)
 
 ### Built with
 
