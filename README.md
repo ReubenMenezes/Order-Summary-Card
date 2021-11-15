@@ -8,7 +8,7 @@ This is my solution to the [Order Summary Card challenge on Frontend Mentor](htt
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- [Solution URL](https://www.frontendmentor.io/solutions/order-summary-card-yUyi5txC8)
 - [Live Site URL](https://myordersummarycard.netlify.app)
 
 ### Built with
